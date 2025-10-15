@@ -1,0 +1,14 @@
+.row {
+  margin: 2rem 0;
+}
+
+.row h2 {
+  margin-left: 1rem;
+  color: white;
+}
+
+.rowPosters {
+  display: flex;
+  overflow-x: scroll;
+  padding: 1rem;
+}

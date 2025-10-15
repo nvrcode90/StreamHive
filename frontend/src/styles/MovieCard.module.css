@@ -1,0 +1,17 @@
+.card {
+  margin: 0 10px;
+  color: white;
+  width: 150px;
+  cursor: pointer;
+}
+
+.card img {
+  width: 100%;
+  border-radius: 6px;
+}
+
+.card h4 {
+  text-align: center;
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+}
